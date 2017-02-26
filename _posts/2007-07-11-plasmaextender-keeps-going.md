@@ -1,15 +1,18 @@
 ---
+id: 57
 title: Plasma::Extender keeps going !!
+date: 2007-07-11T03:28:17+00:00
 author: ereslibre
 layout: post
-categories: kde
+guid: http://blog.ereslibre.es/?p=57
+
+dsq_thread_id:
+  - "1301900208"
+categories:
+  - KDE Development
 ---
-While doing lots of tourism in London I’m hacking on the Plasma extender. It is really nice to see that right now is more than an idea. I really loved to see this on our plasma desktop. It seems that the basics are being developed without many troubles. Probably a small refactoring is needed, but that can be discussed whenever we want, of course.
+While doing lots of tourism in London I&#8217;m hacking on the Plasma extender. It is really nice to see that right now is more than an idea. I really loved to see this on our plasma desktop. It seems that the basics are being developed without many troubles. Probably a small refactoring is needed, but that can be discussed whenever we want, of course.
 
-The video you can try is here (please if you are able to pass it to another format you are free to do so for those who can watch my hand-made videos properly ![:P][1] ).
+<a href="http://media.ereslibre.es/2007/07/plasmaExtendersResizing.ogg" target=_blank>The video you can try is here</a> (please if you are able to pass it to another format you are free to do so for those who can watch my hand-made videos properly :P).
 
- [1]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_razz.gif
-
-**UPDATE: And yes, plasmoids are drawn temporarily !! ![:)][2] , download the video to check it out ![:)][2] **
-
- [2]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_smile.gif
+**UPDATE: And yes, plasmoids are drawn temporarily !! :), <a href="http://media.ereslibre.es/2007/07/plasmoidPreview.ogg" target=_blank>download the video to check it out 🙂</a>**

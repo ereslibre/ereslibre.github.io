@@ -1,16 +1,23 @@
 ---
+id: 8
 title: 'Cleaning the port from KIO::Job* to KJob* on some signals and slots'
+date: 2007-01-16T22:36:24+00:00
 author: ereslibre
 layout: post
-categories: kde
----
-After some grep, I’ve noticed lots of signals/slots were wrong. In particular, if you look at kjob.h (at kdecore), you will notice that result signal is on there, and not on KIO::Job. So for example:
+guid: http://blog.ereslibre.es/?p=8
 
-> ` SIGNAL(result(KIO::Job*))`
+dsq_thread_id:
+  - "1343302049"
+categories:
+  - KDE Development
+---
+After some grep, I&#8217;ve noticed lots of signals/slots were wrong. In particular, if you look at kjob.h (at kdecore), you will notice that result signal is on there, and not on KIO::Job. So for example:
+
+>  `SIGNAL(result(KIO::Job*))`
 
 did become some time ago
 
-> ` SIGNAL(result(KJob*))`
+>  `SIGNAL(result(KJob*))`
 
 and same happened to more signals/slots. Recently, this has happened mainly to totalFiles, totalDirs, slotSpeed, and speed signals, because when coding kuiserver I really have tried to give total support to KJob. Now it is done.
 

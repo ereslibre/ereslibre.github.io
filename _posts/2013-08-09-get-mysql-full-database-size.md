@@ -4,7 +4,8 @@ title: Get MySQL full database size
 date: 2013-08-09T16:35:12+00:00
 author: ereslibre
 layout: post
-original_url: http://blog.ereslibre.es/?p=421
+guid: http://blog.ereslibre.es/?p=421
+
 dsq_thread_id:
   - "1589715842"
 dsq_needs_sync:

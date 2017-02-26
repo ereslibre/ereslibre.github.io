@@ -1,9 +1,14 @@
 ---
+id: 95
 title: Back after some unforeseen stuff
+date: 2008-04-15T01:10:06+00:00
 author: ereslibre
 layout: post
-categories: kde
----
-My computer broke. Better said, my distribution broke. After getting my computer working again (with other distribution, of course), I can continue on my daily work on KDE ![:)][1] … happy hacking then ![:)][1] 
+guid: http://blog.ereslibre.es/?p=95
 
- [1]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_smile.gif
+dsq_thread_id:
+  - "1301901529"
+categories:
+  - KDE Development
+---
+My computer broke. Better said, my distribution broke. After getting my computer working again (with other distribution, of course), I can continue on my daily work on KDE :)&#8230; happy hacking then 🙂

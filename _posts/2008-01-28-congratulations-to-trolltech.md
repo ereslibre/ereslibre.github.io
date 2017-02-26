@@ -1,8 +1,15 @@
 ---
+id: 85
 title: Congratulations to Trolltech
+date: 2008-01-28T14:31:35+00:00
 author: ereslibre
 layout: post
-categories: kde
+guid: http://blog.ereslibre.es/?p=85
+
+dsq_thread_id:
+  - "1301902901"
+categories:
+  - KDE Development
 ---
 I hope this acquirement from Nokia will improve and speed up the progress of Qt (well, it was amazing with Trolltech anyway). I really hope Nokia will understand what a huge open source community is behind Qt/KDE and act in purpose.
 

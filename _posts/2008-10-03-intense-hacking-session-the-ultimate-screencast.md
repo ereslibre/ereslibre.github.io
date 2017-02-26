@@ -1,8 +1,15 @@
 ---
+id: 162
 title: 'Intense hacking session &#8211; The ultimate screencast ! ;)'
+date: 2008-10-03T01:58:48+00:00
 author: ereslibre
 layout: post
-categories: kde
+guid: http://blog.ereslibre.es/?p=162
+
+dsq_thread_id:
+  - "1301902636"
+categories:
+  - KDE Development
 ---
 So I decided to go for all the missing features of the Open/Save dialog, and everything is in SVN now. I have also added support for having filenames below icons or previews (as we had on kde3 too). I have been told several times about this lack of functionality.
 
@@ -10,10 +17,6 @@ Everything works like a charm in KFileWidget/KDirOperator. It is stunning fast a
 
 So, I have played around to show all the functionality of the new features and how to mix them.
 
-[Download the screencast here][1].
+<a href="http://media.ereslibre.es/2008/10/preview-full.ogg" target="_blank">Download the screencast here</a>.
 
- [1]: http://media.ereslibre.es/2008/10/preview-full.ogg
-
-PS: I have tried to upload the video to vimeo, but it was hanging somehow. I have seen that I have to convert ogv since they don’t seem to support it. I am pretty tired today… so I will update this post tomorrow if I manage to upload the video on vimeo ![;)][2] 
-
- [2]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_wink.gif
+PS: I have tried to upload the video to vimeo, but it was hanging somehow. I have seen that I have to convert ogv since they don&#8217;t seem to support it. I am pretty tired today&#8230; so I will update this post tomorrow if I manage to upload the video on vimeo 😉

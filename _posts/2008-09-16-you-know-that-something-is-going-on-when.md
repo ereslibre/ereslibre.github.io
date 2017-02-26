@@ -1,9 +1,14 @@
 ---
+id: 155
 title: 'You know that something is going on when&#8230;'
+date: 2008-09-16T22:20:14+00:00
 author: ereslibre
 layout: post
-categories: kde
----
-… your technology-agnostic girlfriend asks you to install GNU/Linux Linux on her laptop. Only Linux ? Yes, ONLY Linux. \*Phew\* ![:P][1] 
+guid: http://blog.ereslibre.es/?p=155
 
- [1]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_razz.gif
+dsq_thread_id:
+  - "1301901440"
+categories:
+  - KDE Development
+---
+&#8230; your technology-agnostic girlfriend asks you to install <strike>GNU/Linux</strike> Linux on her laptop. Only Linux ? Yes, ONLY Linux. \*Phew\* 😛

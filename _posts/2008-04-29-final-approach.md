@@ -1,35 +1,40 @@
 ---
+id: 100
 title: Final approach ?
+date: 2008-04-29T02:49:53+00:00
 author: ereslibre
 layout: post
-categories: kde
+guid: http://blog.ereslibre.es/?p=100
+
+dsq_thread_id:
+  - "1301903413"
+categories:
+  - KDE Development
 ---
-On the very previous post I was suggested to create a dot story and poll there people with this question. Well, I don’t know if this could be a “dot story” ![:)][1] 
+On the very previous post I was suggested to create a dot story and poll there people with this question. Well, I don&#8217;t know if this could be a &#8220;dot story&#8221; 🙂
 
- [1]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_smile.gif
-
-I guess this time I got to a final approach (on what the “continuous bar” is concerned). I added another gradient (vertical) so it doesn’t look so 90′s. I used KColorScheme and QPalette to correctly use colors, and it seems I get good results with all the color schemes I have on KDE 4.
+I guess this time I got to a final approach (on what the &#8220;continuous bar&#8221; is concerned). I added another gradient (vertical) so it doesn&#8217;t look so 90&#8217;s. I used KColorScheme and QPalette to correctly use colors, and it seems I get good results with all the color schemes I have on KDE 4.
 
 Maybe a border to clearly mark where the widget starts and where ends.
 
-Nuno Pinheiro had given me some input on how to draw a nicer approach. This is the one I like most ![:)][1] He told me to use a solid color for the capability bar itself, but after trying the green-to-red gradient I just couldn’t resist to it.
+Nuno Pinheiro had given me some input on how to draw a nicer approach. This is the one I like most 🙂 He told me to use a solid color for the capability bar itself, but after trying the green-to-red gradient I just couldn&#8217;t resist to it.
 
-![][2]
+<p align="center">
+  <img src="http://media.ereslibre.es/2008/04/kpropertiesdialog17.png" width="390" border="0" height="497" />
+</p>
 
- [2]: http://media.ereslibre.es/2008/04/kpropertiesdialog17.png
+<p align="center">
+  <img src="http://media.ereslibre.es/2008/04/kpropertiesdialog18.png" width="390" border="0" height="497" />
+</p>
 
-![][3]
+<p align="center">
+  <img src="http://media.ereslibre.es/2008/04/kpropertiesdialog19.png" width="390" border="0" height="497" />
+</p>
 
- [3]: http://media.ereslibre.es/2008/04/kpropertiesdialog18.png
+<p align="center">
+  <img src="http://media.ereslibre.es/2008/04/kpropertiesdialog20.png" width="390" border="0" height="497" />
+</p>
 
-![][4]
-
- [4]: http://media.ereslibre.es/2008/04/kpropertiesdialog19.png
-
-![][5]
-
- [5]: http://media.ereslibre.es/2008/04/kpropertiesdialog20.png
-
-The widget design is based (really, fast based) [on the mockup Nuno did tonight for me][6] ![:)][1] . Thank you very much Nuno. I really like the shape this widget is taking. ![:)][1] 
-
- [6]: http://media.ereslibre.es/2008/04/progresscontinuous.svg
+<p align="left">
+  The widget design is based (really, fast based) <a href="http://media.ereslibre.es/2008/04/progresscontinuous.svg" target="_blank">on the mockup Nuno did tonight for me</a> :). Thank you very much Nuno. I really like the shape this widget is taking. 🙂
+</p>

@@ -1,8 +1,15 @@
 ---
+id: 134
 title: Hover it, my friend !
+date: 2008-08-03T14:39:56+00:00
 author: ereslibre
 layout: post
-categories: kde
+guid: http://blog.ereslibre.es/?p=134
+
+dsq_thread_id:
+  - "1301904069"
+categories:
+  - KDE Development
 ---
 So as some of you suggested (and the maintainer of the places view Kévin) I am giving a try to the show-capacity-bar-on-hover approach, and I really like it, for being honest.
 
@@ -12,12 +19,8 @@ Plus, this also makes it possible to only poll if one device is hovered and only
 
 Also, I modified the capacitybar for having less rounded borders. I really believe now it behaves really well when it is big and small, but still rounded borders.
 
-[I recorded a small video of making use of the show the bar on hover][1], just to let you know how this is progressing.
+<a href="http://media.ereslibre.es/2008/08/capacitybarfileplaces.ogg" target="_blank">I recorded a small video of making use of the show the bar on hover</a>, just to let you know how this is progressing.
 
- [1]: http://media.ereslibre.es/2008/08/capacitybarfileplaces.ogg
-
-[You can try the patch here too][2]…
-
- [2]: http://media.ereslibre.es/2008/08/kdelibs-fileplaces.diff
+<a href="http://media.ereslibre.es/2008/08/kdelibs-fileplaces.diff" target="_blank">You can try the patch here too</a>&#8230;
 
 Comments ? Suggestions ?

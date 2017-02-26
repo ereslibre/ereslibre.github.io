@@ -1,33 +1,26 @@
 ---
+id: 66
 title: Imaginative days for Chart widgets :P
+date: 2007-09-22T21:28:48+00:00
 author: ereslibre
 layout: post
-categories: kde
+guid: http://blog.ereslibre.es/?p=66
+
+dsq_thread_id:
+  - "1301902386"
+categories:
+  - KDE Development
 ---
 I have had some imaginative days. I have looked into Gnome to see what kind of chart they have for showing this kind of information, and I found out:
 
-[This screenshot.][1]
+[This screenshot.](http://media.ereslibre.es/2007/09/gnomeNautilus.png)
 
- [1]: http://media.ereslibre.es/2007/09/gnomeNautilus.png
+There is marked on red what I don&#8217;t like about it. The latest drawn slice overrides the previous one.
 
-There is marked on red what I don’t like about it. The latest drawn slice overrides the previous one.
+I have been thinking on how to make &#8220;different&#8221; chart widgets and I came up with one that I don&#8217;t know if it is easy enough. I personally love it&#8230; but well, that&#8217;s only my opinion 🙂
 
-I have been thinking on how to make “different” chart widgets and I came up with one that I don’t know if it is easy enough. I personally love it… but well, that’s only my opinion ![:)][2] 
+[The code is available for download here](http://media.ereslibre.es/2007/09/PieChart.tar.gz).
 
- [2]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_smile.gif
+I have taken some screenshots: [1](http://media.ereslibre.es/2007/09/pieChart.png), [2](http://media.ereslibre.es/2007/09/pieChart2.png), [3](http://media.ereslibre.es/2007/09/pieChart3.png), [4](http://media.ereslibre.es/2007/09/pieChart4.png), [5](http://media.ereslibre.es/2007/09/pieChart5.png)
 
-[The code is available for download here][3].
-
- [3]: http://media.ereslibre.es/2007/09/PieChart.tar.gz
-
-I have taken some screenshots: [1][4], [2][5], [3][6], [4][7], [5][8]
-
- [4]: http://media.ereslibre.es/2007/09/pieChart.png
- [5]: http://media.ereslibre.es/2007/09/pieChart2.png
- [6]: http://media.ereslibre.es/2007/09/pieChart3.png
- [7]: http://media.ereslibre.es/2007/09/pieChart4.png
- [8]: http://media.ereslibre.es/2007/09/pieChart5.png
-
-Comments ? ![:P][9] 
-
- [9]: http://blog.ereslibre.es/wp-includes/images/smilies/icon_razz.gif
+Comments ? 😛
