@@ -1,5 +1,5 @@
 name: Free as in free speech
 safe: true
 lsi: false
-pygments: true
+rouge: true
 description: Given enough eyeballs, all bugs are shallow
