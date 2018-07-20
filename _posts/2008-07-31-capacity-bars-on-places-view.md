@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=130
 dsq_thread_id:
   - "1301903843"
 categories:
+  - Archived
   - KDE Development
 ---
 I am working on making a cool way of notifying the user about the external devices usage in a very slight way. Note that this screenshots are a work in progress, and can change to what we will have in trunk (nothing is committed yet).

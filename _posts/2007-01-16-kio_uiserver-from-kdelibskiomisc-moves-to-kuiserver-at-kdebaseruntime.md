@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=9
 dsq_thread_id:
   - "1566230897"
 categories:
+  - Archived
   - KDE Development
 ---
 In order to improve the logical hierarchy of the trunk tree, David Faure moved the kio_uiserver from kdelibs/kio/misc to kdebase/runtime, where it makes more sense.

@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2008/02/funwithphysics.mpeg
     5025266
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301902886"
 categories:
+  - Archived
   - KDE Development
 ---
 After some exams I needed to get my head out of worries for a while (still one on the stack to pop&#8230;). I know I shouldn&#8217;t go into a deep problem (as some issues with KToolBar/KMainWindow I need to debug when my exams are over), mainly because I know that if I start debugging them, I probably won&#8217;t stop till I find the problem, and that implies going at 6:00 AM on the morning to bed, what implies not sleeping, what implies not studying ;).
@@ -24,9 +25,9 @@ So, here I am, writing a small physics test app on QGraphicsView. I know we have
 You can <a href="http://media.ereslibre.es/2008/02/funwithphysics.mpeg" target="_blank">download a video of the example from here</a>, and you can find the <a href="http://media.ereslibre.es/2008/02/iconsproof" target="_blank">sources here</a>. If you want to compile them, you will only need Qt 4 and some terminal to write:
 
 > $ qmake -project
-  
+
 > $ qmake
-  
+
 > $ make
 
 So, that&#8217;s all for now folks 🙂

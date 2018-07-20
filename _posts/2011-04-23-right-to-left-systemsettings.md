@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=310
 dsq_thread_id:
   - "1301901552"
 categories:
+  - Archived
   - KDE Development
 ---
 It has been a while since my last blog post, but I hope to blog more regularly from now on. I have been looking at my todo list at KDE, and I have some necessary things to do, and others that are just ideas and need to be developed.

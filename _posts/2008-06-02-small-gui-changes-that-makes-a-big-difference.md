@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=105
 dsq_thread_id:
   - "1301902708"
 categories:
+  - Archived
   - KDE Development
 ---
 I started some time ago to use Kontact from KDE 4. I usually feel pretty annoyed when I see list views from KDE 3, but after all one gets used to it. I wanted to port the side bar of Kontact to Qt 4, and this is what I got so far: sorting still missing.

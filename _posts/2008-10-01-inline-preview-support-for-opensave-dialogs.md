@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=158
 dsq_thread_id:
   - "1301903840"
 categories:
+  - Archived
   - KDE Development
 ---
 After some time hidden in the dark &#8220;fixing bugs&#8221; cave, I got out to work on a new feature for Open/Save dialogs. Actually, is somehow a fix-regression. I am working on it to correctly support inline previews. After the KFileWidgetPreviewGenerator code has been moved to kdelibs, it is a pleasure to work on this thing.

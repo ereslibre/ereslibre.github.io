@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=55
 dsq_thread_id:
   - "1301902017"
 categories:
+  - Archived
   - KDE Development
 ---
 This has been my first time at aKademy. I knew that our community was incredible, but my idea right now is even more than that. The way we fit together and the way we just have fun altogether is just incredible.

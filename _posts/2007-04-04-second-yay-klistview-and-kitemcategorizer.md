@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=24
 dsq_thread_id:
   - "1301900784"
 categories:
+  - Archived
   - KDE Development
 ---
 I have been hacking at night to write two new classes, that I hope will be useful to users, since I know from various users that this was a missed feature on our KDE file managers.

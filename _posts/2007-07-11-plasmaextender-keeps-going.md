@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=57
 dsq_thread_id:
   - "1301900208"
 categories:
+  - Archived
   - KDE Development
 ---
 While doing lots of tourism in London I&#8217;m hacking on the Plasma extender. It is really nice to see that right now is more than an idea. I really loved to see this on our plasma desktop. It seems that the basics are being developed without many troubles. Probably a small refactoring is needed, but that can be discussed whenever we want, of course.

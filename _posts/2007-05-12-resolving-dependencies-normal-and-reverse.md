@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2007/05/kpluginselector2.mpeg
     14769094
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301901343"
 categories:
+  - Archived
   - KDE Development
 ---
 KPluginSelector is almost finished. It will save configuration for each plugin when changed, it will let you ask for default options for each plugin, and it will resolve dependencies between plugins, normal and reverse.

@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=59
 dsq_thread_id:
   - "1301902074"
 categories:
+  - Archived
   - KDE Development
 ---
 I had some suggestions of removing the link &#8220;About&#8221; and &#8220;More Options&#8221; from KPluginSelector and making them buttons. Well, the problem wasn&#8217;t trivial, but after spending some hours on it I managed to get almost real widgets on it. I think it works quite nice. Here are some screenshots, showing that it respects too if the user selected on &#8220;kcmshell style&#8221; that he/she doesn&#8217;t want icons on buttons:

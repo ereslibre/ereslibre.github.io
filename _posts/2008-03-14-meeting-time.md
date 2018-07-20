@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=91
 dsq_thread_id:
   - "1558932785"
 categories:
+  - Archived
   - KDE Development
 ---
 Time to have a full schedule. We are having two main events in Spain between March and April. I have been dealing with both and the KDE community (and the Gnome community too, in the case of the Aditel iParty X), trying to be a link between them, for that reason I&#8217;m blogging about it.

@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=164
 dsq_thread_id:
   - "1301903770"
 categories:
+  - Archived
   - KDE Development
 ---
 I have submitted 3 new reports to qt-bugs&#8230; One of them affecting <a href="http://bugs.kde.org/171436" target="_blank">bug 171436</a>. This is a general bug that affects all applications (not only Amarok). Let&#8217;s go by parts on the submitted bugs to Trolltech:

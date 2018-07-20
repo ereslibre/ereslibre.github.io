@@ -12,35 +12,16 @@
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet">
     </head>
     <body>
-
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
-     
-                {{ content }}
-
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  Rafael Fernández López<br />
-                  Libre software developer<br />
-                  ereslibre@kde.org
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/ereslibre/">github.com/ereslibre</a><br />
-                  <a href="http://twitter.com/ereslibre/">twitter.com/ereslibre</a><br />
-                </p>
-              </div>
-            </div>
+        <div class="website">
+          <div class="header">
           </div>
-        </div> <!-- /container -->
-
+          <div class="container">
+            {{ content }}
+          </div>
+        </div>
     </body>
 </html>

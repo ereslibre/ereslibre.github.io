@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=103
 dsq_thread_id:
   - "1301902556"
 categories:
+  - Archived
   - KDE Development
 ---
 After having ported KPluginSelector to use Goya for showing the widgets it needs to show on the item view, I have worked on removing all unneeded stuff. The code is amazingly more clear now and it now sorts plugins alphabetically. Less code lines, and more features: it can search through the search box on the top. Nowadays this is a must, since it seems plugins are going to appear everywhere 🙂 KWin, Kopete, Konqueror have a good number of plugins. And more to come&#8230;

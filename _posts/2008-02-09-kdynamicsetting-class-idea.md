@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=88
 dsq_thread_id:
   - "1301900928"
 categories:
+  - Archived
   - KDE Development
 ---
 I&#8217;ve been thinking on a new component that could make life easier to us, developers. Nowadays it is very important that the whole desktop seem to just respond to what the user wants. If the users steps into systemsettings and changes some style parameter, he/she can expect it to be changed at the moment on his/her whole desktop, without the need of restarting anything.
@@ -20,22 +21,22 @@ This hasn&#8217;t been a problem till now, because for instance, when you change
 But this time has been slightly different. I have been working, as you may know if you are suscribed to kcd mailing list, on the global (de)activation of builtin animations in KDE applications. That had an impact on lots of places: KMainWindow, KImageFilePreview, KLineEdit, Plasma::Phase, KFaceWidgetEffect, Konsole&#8230; My patches adds to every private class a new slot that is connected to the KGlobalSettings changed signal, and updates themselves internally, just for the reason of not asking KGlobalSettings::animationsEnanbled() so frequently. But I&#8217;d prefer to move this logic out of the applications themselves. That means I&#8217;d love to do something like:
 
 > KDynamicSetting animsEnabled(KDynamicSetting::AnimationsEnabled);
-  
+
 > &#8230;
-  
+
 > &#8230;
-  
+
 > if (animsEnabled.content().toBool())
-  
+
 > doSomething();
-  
+
 > else
-  
+
 > doAnotherThing();
-  
+
 > &#8230;
-  
-> &#8230; 
+
+> &#8230;
 
 Internally KDynamicSetting class when is constructed, connects itself to the KGlobalSettings changed signal, and when the information relevant to that instance (in this case, AnimationsEnabled) is changed, it updates its value automatically, so what our app reads when asking animsEnabled.content().toBool() is always the most updated thing, magically.
 

@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=242
 dsq_thread_id:
   - "1301904225"
 categories:
+  - Archived
   - KDE Development
 ---
 I&#8217;m missing you guys. So much&#8230;

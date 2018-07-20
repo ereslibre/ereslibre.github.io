@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=136
 dsq_thread_id:
   - "1301904083"
 categories:
+  - Archived
   - KDE Development
 ---
 It is impossible to don&#8217;t feel when something amazing is happening. I really see what is going on in here&#8230; and is more than amazing, is just stunning.

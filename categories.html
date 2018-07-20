@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: /categories/
+title: Categories
+---
+<div id="home">
+  <ul class="posts">
+    {% assign sorted_categories = site.categories | sort %}
+    {% for category in sorted_categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <li>{{ category_name }}</li>
+    {% endfor %}
+  </ul>
+</div>

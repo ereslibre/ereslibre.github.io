@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=202
 dsq_thread_id:
   - "1301904127"
 categories:
+  - Archived
   - KDE Development
 ---
 I am very pleased to announce that I managed to get all KDE Spain (KDE España) association papers in shape. We are now officially registered in the association list at national level in Spain.

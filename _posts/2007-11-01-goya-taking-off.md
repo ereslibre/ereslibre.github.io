@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2007/11/goyaworking.mpeg
     10370268
     video/mpeg
-    
+
 dsq_thread_id:
   - "4242687454"
 categories:
+  - Archived
   - KDE Development
 ---
 Yesterday I had to blog in a very general way about Goya. Well, I was about teaching it how to take off. Now, it is flying. It works. Goya&#8217;s code is easy (the library) and makes applications easier. I love the shape it is taking and I love to see it working.

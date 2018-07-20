@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=3
 dsq_thread_id:
   - "1301839273"
 categories:
+  - Archived
   - KDE Development
   - Life
 ---

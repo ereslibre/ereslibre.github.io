@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2007/02/joining.mpeg
     3966492
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301900695"
 categories:
+  - Archived
   - KDE Development
 ---
 Short time ago we were discussing at planetkde how users can help KDE project without having programming knowledge. It is, of course, possible. And they really do a great job.If you are good at mockups, draw them. If you can translate, do it. If you have some time to write docs, write them. Well, there are lots of ways helping KDE project, and you can always think for yourself how proud are you for helping such a project.
@@ -28,5 +29,5 @@ Well, the screenshot that I attach is with the new class view KListView. It need
 </p>
 
 <a target="_blank" href="http://media.ereslibre.es/2007/02/joining.mpeg">You can take a look at the video too.</a>
-  
+
 Hope you like it 🙂

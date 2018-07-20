@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=56
 dsq_thread_id:
   - "1301901075"
 categories:
+  - Archived
   - KDE Development
 ---
 Yesterday I have been working on the plasma extender concept. Right now I have a proof of concept. It works quite fine for very few lines of code.

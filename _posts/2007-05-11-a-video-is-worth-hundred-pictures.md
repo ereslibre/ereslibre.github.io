@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2007/05/kpluginselector.mpeg
     9258428
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301901169"
 categories:
+  - Archived
   - KDE Development
 ---
 Well, I have been asked to upload a video showing KPluginSelector, <a href="http://media.ereslibre.es/2007/05/kpluginselector.mpeg" target="_blank">so here you are</a>.

@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=155
 dsq_thread_id:
   - "1301901440"
 categories:
+  - Archived
   - KDE Development
 ---
 &#8230; your technology-agnostic girlfriend asks you to install <strike>GNU/Linux</strike> Linux on her laptop. Only Linux ? Yes, ONLY Linux. \*Phew\* 😛

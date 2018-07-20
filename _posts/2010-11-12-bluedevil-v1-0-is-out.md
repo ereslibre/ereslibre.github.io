@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=281
 dsq_thread_id:
   - "1301904275"
 categories:
+  - Archived
   - KDE Development
 ---
 We, at <a href="http://www.ufocoders.com/" target="_blank">UFO Coders</a> are really glad to release version 1.0 of <a href="https://projects.kde.org/projects/extragear/base/bluedevil" target="_blank">Bluedevil</a>, the new KDE bluetooth stack. It has been kind of long way, but finally is all ours !
@@ -33,7 +34,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 454px" class="wp-caption aligncenter">
   <img title="Monolithic Application" src="http://media.ereslibre.es/2010/11/bluedevil/monolithic.png" alt="" width="444" height="413" />
-  
+
   <p class="wp-caption-text">
     Monolithic Application
   </p>
@@ -45,7 +46,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 493px" class="wp-caption aligncenter">
   <a href="http://media.ereslibre.es/2010/11/bluedevil/devices-kcm.png" target="_blank"><img class="       " title="Devices KCM" src="http://media.ereslibre.es/2010/11/bluedevil/devices-kcm.png" alt="" width="483" height="323" /></a>
-  
+
   <p class="wp-caption-text">
     Devices KCM
   </p>
@@ -59,7 +60,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 564px" class="wp-caption aligncenter">
   <a href="http://media.ereslibre.es/2010/11/bluedevil/adapters-kcm.png" target="_blank"><img class="    " title="Adapters KCM" src="http://media.ereslibre.es/2010/11/bluedevil/adapters-kcm.png" alt="" width="554" height="368" /></a>
-  
+
   <p class="wp-caption-text">
     Adapters KCM
   </p>
@@ -69,7 +70,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 564px" class="wp-caption aligncenter">
   <a href="http://media.ereslibre.es/2010/11/bluedevil/transfer-kcm.png" target="_blank"><img class="     " title="Transfer KCM" src="http://media.ereslibre.es/2010/11/bluedevil/transfer-kcm.png" alt="" width="554" height="368" /></a>
-  
+
   <p class="wp-caption-text">
     Transfer KCM
   </p>
@@ -83,7 +84,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 560px" class="wp-caption aligncenter">
   <a href="http://media.ereslibre.es/2010/11/bluedevil/bluetooth-kio.png" target="_blank"><img class="  " title="Bluetooth KIO (listing devices)" src="http://media.ereslibre.es/2010/11/bluedevil/bluetooth-kio.png" alt="" width="550" height="386" /></a>
-  
+
   <p class="wp-caption-text">
     Bluetooth KIO (listing devices)
   </p>
@@ -91,7 +92,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 560px" class="wp-caption aligncenter">
   <a href="http://media.ereslibre.es/2010/11/bluedevil/bluetooth-kio2.png" target="_blank"><img class=" " title="Bluetooth KIO (listing services)" src="http://media.ereslibre.es/2010/11/bluedevil/bluetooth-kio2.png" alt="" width="550" height="386" /></a>
-  
+
   <p class="wp-caption-text">
     Bluetooth KIO (listing services)
   </p>
@@ -99,7 +100,7 @@ Now, I have taken some photographs in order to show some features:
 
 <div style="width: 576px" class="wp-caption aligncenter">
   <a href="http://media.ereslibre.es/2010/11/bluedevil/bluetooth-kio3.png" target="_blank"><img class=" " title="Bluetooth KIO (listing contents)" src="http://media.ereslibre.es/2010/11/bluedevil/bluetooth-kio3.png" alt="" width="566" height="412" /></a>
-  
+
   <p class="wp-caption-text">
     Bluetooth KIO (listing contents)
   </p>
@@ -113,10 +114,10 @@ Obviously, we also want to thank all users that reported us all kind of valuable
   <strong>TARBALLS</strong>
 </p>
 
-  * **<a href="http://media.ereslibre.es/2010/11/libbluedevil-v1.8-1.tar.bz2" target="_blank">libbluedevil-v1.8-1.tar.bz2</a>** 
+  * **<a href="http://media.ereslibre.es/2010/11/libbluedevil-v1.8-1.tar.bz2" target="_blank">libbluedevil-v1.8-1.tar.bz2</a>**
       * MD5: <tt>03c79dd8a6d40e2872fee27c9b81190d</tt>
       * SHA1: <tt>ff02c45cd6a8df39e3e8a0d48bcceff770637bad</tt>
-  * **<a href="http://media.ereslibre.es/2010/11/bluedevil-v1.0.tar.bz2" target="_blank">bluedevil-v1.0.tar.bz2</a>** 
+  * **<a href="http://media.ereslibre.es/2010/11/bluedevil-v1.0.tar.bz2" target="_blank">bluedevil-v1.0.tar.bz2</a>**
       * MD5: <tt>b20d9c234adfe3c498f5577a88cd2f03</tt>
       * SHA1: <tt>0193732a383023869ea2e725fd649b257cdb7c38</tt>
 
@@ -125,7 +126,7 @@ Obviously, we also want to thank all users that reported us all kind of valuable
     <p style="text-align: left;">
       Yours,
     </p>
-    
+
     <p style="text-align: center;">
       <a href="http://www.ufocoders.com/" target="_blank"><img class="alignnone" src="http://ufocoders.com/sites/all/themes/arthemia/logo.png" alt="" width="302" height="61" /></a>
     </p>

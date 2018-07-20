@@ -11,6 +11,7 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 categories:
+  - Archived
   - Development
 ---
 If you have searched on the internets how to get the full MySQL database size, you have probably read something like this:

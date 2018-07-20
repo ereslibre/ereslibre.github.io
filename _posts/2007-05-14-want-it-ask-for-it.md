@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2007/05/kpluginselector4.mpeg
     21077150
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301901399"
 categories:
+  - Archived
   - KDE Development
 ---
 As we, lots of developers always say: you can contribute. It doesn&#8217;t matter at all if you haven&#8217;t got programming skills or whatever. Do you have ideas ? Do you have drawing skills ? Do you know how to translate ? Would you like to contribute writing documentation ? Would you like to test  latest apps and report bugs ? Do you have usability skills ?

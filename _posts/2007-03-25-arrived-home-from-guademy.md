@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=21
 dsq_thread_id:
   - ""
 categories:
+  - Archived
   - KDE Development
 ---
 I had no time for writing on the second day.

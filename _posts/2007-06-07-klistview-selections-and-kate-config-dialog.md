@@ -18,6 +18,7 @@ enclosure:
 dsq_thread_id:
   - "1301901672"
 categories:
+  - Archived
   - KDE Development
 ---
 Ok, I&#8217;m back on KListView. I need to concentrate on this from now. I have been coding today for a little time, and I had acceptable results. Well, it works, but I don&#8217;t like how expensive this is. Selecting and in general resolving the problem of &#8220;which items are inside this rect ?&#8221; have some work that I need to start right now, to make things just go really fast. The thing is I have this working. [You can check out a video for download here](http://media.ereslibre.es/2007/06/klistviewselections.mpeg).

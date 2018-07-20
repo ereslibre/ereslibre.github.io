@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=169
 dsq_thread_id:
   - "1301900343"
 categories:
+  - Archived
   - KDE Development
 ---
 <p style="text-align: justify;">
@@ -31,11 +32,11 @@ categories:
   <p style="text-align: justify;">
     <strong>Update: I have removed a bit of blank unused space. How about this one?</strong>
   </p>
-  
+
   <p style="text-align: center;">
     <a href="http://media.ereslibre.es/2008/12/systemsettings-new2.png" target="_blank"><img class="aligncenter" title="http://media.ereslibre.es/2008/12/systemsettings-new2.png" src="http://media.ereslibre.es/2008/12/systemsettings-new2.png" alt="" width="320" height="240" /></a>
   </p>
-  
+
   <p style="text-align: justify;">
     As always, comments are really welcome =)
   </p>

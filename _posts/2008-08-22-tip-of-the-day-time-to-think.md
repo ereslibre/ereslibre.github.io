@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=142
 dsq_thread_id:
   - "1301901742"
 categories:
+  - Archived
   - KDE Development
 ---
 I am doing some experiments with non blocker tip-of-the-day, and <a href="http://weblog.obso1337.org/" target="_blank">Celeste</a> did bring up a nice suggestion. If the application could show some messages the way the tip-of-the-day redesign I&#8217;m doing. We could say that would be in the way of how Firefox 3 asks you for storing a password when filling out a form.

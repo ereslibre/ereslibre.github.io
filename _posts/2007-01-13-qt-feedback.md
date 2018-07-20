@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=6
 dsq_thread_id:
   - "1478654298"
 categories:
+  - Archived
   - KDE Development
 ---
 If you remember the bug I found on the Editor/Delegate part of Qt (version 4.2.2), you will recall I wrote trolls about the strange issue, and I gave them the test application that demonstrated the bug, and a patch I could write in order to fix the bug (at least it didn&#8217;t affected any other things on an overview).

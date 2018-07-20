@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=69
 dsq_thread_id:
   - "1301902544"
 categories:
+  - Archived
   - KDE Development
 ---
 On a quick hack I wanted to change the way things are shown when dragging items from an itemview. Stephen on the last post suggested that doing what we currently do can be improved. I agree with him, and despite I know that this solution is not the best, I still think is slightly better than the current one.

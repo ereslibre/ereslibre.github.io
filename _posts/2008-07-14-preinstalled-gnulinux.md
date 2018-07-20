@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=110
 dsq_thread_id:
   - "1301903765"
 categories:
+  - Archived
   - KDE Development
 ---
 So&#8230; finally&#8230; it is a real thing. You can get a laptop with GNU/Linux preinstalled in your usual store. I found [this on the Carrefour site (spanish)](http://www.carrefouronline.carrefour.es/noalimentacion/TemplateProduct.aspx?itemMarcado=catalog310026&navAction=push&navCount=5&menu=no&nivel_desplegado=nivel2_4&itemId=43704698).

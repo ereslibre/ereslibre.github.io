@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=22
 dsq_thread_id:
   - "1323213095"
 categories:
+  - Archived
   - KDE Development
 ---
 I committed the first very early version of Kremas, a future [different] picture viewer. As I said on mailing lists everybody is welcome on helping this project and can contact me for more information (ereslibre at #kde4-devel, #kde-devel, #kde-devel-es&#8230;) or nefertum (same channels).

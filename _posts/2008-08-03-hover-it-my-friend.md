@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=134
 dsq_thread_id:
   - "1301904069"
 categories:
+  - Archived
   - KDE Development
 ---
 So as some of you suggested (and the maintainer of the places view Kévin) I am giving a try to the show-capacity-bar-on-hover approach, and I really like it, for being honest.

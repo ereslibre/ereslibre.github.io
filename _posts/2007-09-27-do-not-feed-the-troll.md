@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=67
 dsq_thread_id:
   - "1301900386"
 categories:
+  - Archived
   - KDE Development
 ---
 I have never liked to feed the trolls. Probably because of that I have never done so. Even more, probably because of that in this post I&#8217;m not pointing to any troll in particular, but all of them.

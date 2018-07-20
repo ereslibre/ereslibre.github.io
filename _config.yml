@@ -3,3 +3,13 @@ safe: true
 lsi: false
 rouge: true
 description: Given enough eyeballs, all bugs are shallow
+collections:
+  category:
+    output: True
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2007/11/smooth2.mpeg
     6488592
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301902766"
 categories:
+  - Archived
   - KDE Development
 ---
 Well, you guys gave me nice input. I am very thanked because all your comments and suggestions. Transitions now are faster, and I think you get a nice feeling when using it. They are smooth, but fast.

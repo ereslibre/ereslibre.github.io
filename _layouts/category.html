@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<div id="home">
+  <ul class="posts">
+    {% for post in site.categories[page.tag] %}
+      <li><span>{{ post.date | date_to_string }} - {{ post.categories | join: ', ' }}</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

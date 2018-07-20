@@ -11,6 +11,7 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 categories:
+  - Archived
   - Android
   - Life
 ---

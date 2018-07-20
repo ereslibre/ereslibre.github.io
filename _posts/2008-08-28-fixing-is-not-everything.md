@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=152
 dsq_thread_id:
   - "1301904045"
 categories:
+  - Archived
   - KDE Development
 ---
 I have just committed a speed fix for KFadeWidgetEffect. We do use very often the method setOpacity() which results to be really slow on current QPainter (we really hope this will be fixed on new versions of Qt). You can read <a href="http://techbase.kde.org/Development/Tutorials/Graphics/Performance" target="_blank">this techbase tutorial</a>, written by <a href="http://fredrikh.blogspot.com/" target="_blank">Fredrik Höglund</a>, you will learn a lot about the dark side of QPainter, and how to avoid the more general cases that we usually face.

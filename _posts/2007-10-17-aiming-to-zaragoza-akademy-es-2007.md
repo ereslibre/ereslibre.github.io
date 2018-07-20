@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=72
 dsq_thread_id:
   - "1301902706"
 categories:
+  - Archived
   - KDE Development
 ---
 I still need to buy my tickets to Zaragoza for attending aKademy-es. I will love to see again those who cares about free software as me, and loves it as me 🙂

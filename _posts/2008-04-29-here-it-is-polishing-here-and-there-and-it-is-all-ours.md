@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=101
 dsq_thread_id:
   - "1301903414"
 categories:
+  - Archived
   - KDE Development
 ---
 After some help from logixoul on #oxygen and lots, lots of testing with KMag and looking again and again to all mockups I think we got to a really nice look.

@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=326
 dsq_thread_id:
   - "1301904313"
 categories:
+  - Archived
   - Rails
   - Ruby
 tags:

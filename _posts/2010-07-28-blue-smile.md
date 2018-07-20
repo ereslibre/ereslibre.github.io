@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=247
 dsq_thread_id:
   - "1301904241"
 categories:
+  - Archived
   - KDE Development
 ---
 Yeah ! It is now for real ! We have an integrated Bluetooth system with our desktop. BlueDevil (the new bluetooth stack for KDE) consists of several key features:

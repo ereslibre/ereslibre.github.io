@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=181
 dsq_thread_id:
   - "1301900591"
 categories:
+  - Archived
   - KDE Development
 ---
 First of all&#8230; **HAPPY NEW YEAR ALL** !!

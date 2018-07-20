@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=253
 dsq_thread_id:
   - "1301902494"
 categories:
+  - Archived
   - KDE Development
 ---
 libbluedevil is a stable Qt-based library written in C++ to handle all Bluetooth functionality. Here is the man that you want to blame when something isn&#8217;t working properly on this library. It consists of a very easy and straight-forward API, featuring:

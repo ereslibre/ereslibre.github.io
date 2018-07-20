@@ -9,6 +9,7 @@ guid: http://blog.ereslibre.es/?p=61
 dsq_thread_id:
   - "1301902238"
 categories:
+  - Archived
   - KDE Development
 ---
 What to do when something is not as good as expected (or as intuitive as expected) ? Well, you drop it. That is what I&#8217;ve done with the way the plugin selector handles the Configurations dialog & the about dialog. Now they are separate buttons. It didn&#8217;t make so much sense when having configuration dialogs putting instead of &#8220;About&#8221;, &#8220;Options&#8221; and adding there the about information of the plugin. Mandatory screenshot:

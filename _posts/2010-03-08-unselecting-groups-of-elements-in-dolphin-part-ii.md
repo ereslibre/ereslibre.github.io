@@ -11,10 +11,11 @@ enclosure:
     http://media.ereslibre.es/2010/03/selection2.mpeg
     2445708
     video/mpeg
-    
+
 dsq_thread_id:
   - "1301904184"
 categories:
+  - Archived
   - KDE Development
 ---
 /me loves constructive criticism and nice ideas. I think I have several times guided some development through my blog in order to try to accomplish the maximum number of people ideas and suggestions.
