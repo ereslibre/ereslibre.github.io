@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=166
 dsq_thread_id:
   - "1301900563"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 <p style="text-align: justify;">
   So many time without blogging&#8230; For being honest I have been really busy with university (still hell busy), and I have had time for coding mostly, without blogging on recent work I have been doing. Anyway, the short story, didn&#8217;t find the time to blog.

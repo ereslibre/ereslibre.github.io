@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=52
 dsq_thread_id:
   - "1301901019"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I finally committed today KListView into kdebase/apps/dolphin. It still expects speed improvements on setSelection() and mouseReleaseEvent() methods. There are a few problems when you change the sorting role on the fly, as well as if items are added/deleted externally. If you experiment strange issues, just press F5 key to make it update everything.
 

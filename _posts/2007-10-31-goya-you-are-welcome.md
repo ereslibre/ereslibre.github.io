@@ -14,8 +14,8 @@ enclosure:
 dsq_thread_id:
   - "1301901323"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Now that we are reading really nice news on adding real widgets to a QGraphicsView/QGraphicsScene, I want to tell you a small secret too, on the same shape, more or less.
 

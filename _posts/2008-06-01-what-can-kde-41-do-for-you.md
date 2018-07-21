@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=104
 dsq_thread_id:
   - "1301902046"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 We, the KDE team, have done a huge effort of making KDE 4.1 series a really usable desktop, and I really think we are going in a good path. KDE is stabilizing in general terms, and kdelibs goodies are starting to be used widely by almost all applications.
 

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=88
 dsq_thread_id:
   - "1301900928"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I&#8217;ve been thinking on a new component that could make life easier to us, developers. Nowadays it is very important that the whole desktop seem to just respond to what the user wants. If the users steps into systemsettings and changes some style parameter, he/she can expect it to be changed at the moment on his/her whole desktop, without the need of restarting anything.
 

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=54
 dsq_thread_id:
   - "1301901981"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 This took me sooooo long. I thought I was going to finish this much faster, but is OK now, and working pretty nice.
 

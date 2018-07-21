@@ -9,7 +9,7 @@ guid: http://blog.ereslibre.es/?p=95
 dsq_thread_id:
   - "1301901529"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 My computer broke. Better said, my distribution broke. After getting my computer working again (with other distribution, of course), I can continue on my daily work on KDE :)&#8230; happy hacking then 🙂

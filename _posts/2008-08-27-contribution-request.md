@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=144
 dsq_thread_id:
   - "1301903356"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I don&#8217;t consider this a bugsquash, but I could do it perfectly. However, after fixing toolbar positioning problems on kdelibs, I just saw some applications (probably 3 out of 7 that I started) not doing stuff correctly (ignoring my toolbar positioning preferences). As an example, I fired up: konqueror, gwenview, kate, dolphin, kwrite, umbrello, kopete and kontact.
 

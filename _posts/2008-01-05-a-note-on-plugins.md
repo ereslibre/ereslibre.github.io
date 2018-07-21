@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=83
 dsq_thread_id:
   - "1301902767"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 This time I wanted to say a small note on plugins. Well, more than plugins itself, about plugins + configuration dialog. KPluginSelector as we know is able to detect if a plugin has configuration dialog or not. It is actually able to detect more than one configuration dialog that a plugin may have and tab them in an unique configuration dialog.
 

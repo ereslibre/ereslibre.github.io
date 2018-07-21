@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=140
 dsq_thread_id:
   - "1301903682"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Not a new shiny feature, not a really cool new application&#8230; from my point of view a really needed bugfix. Yesterday I committed a patch that is supposed to fix all (at least, almost all) toolbars problems.
 

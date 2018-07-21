@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=48
 dsq_thread_id:
   - "1301901653"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Well, in reply to the &#8220;Where do you hack?&#8221; question I have to say, here is my desktop:
 

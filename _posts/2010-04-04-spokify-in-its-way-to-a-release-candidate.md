@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301902933"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 <a href="http://www.gitorious.org/spokify" target="_blank">Spokify has suffered lots of improvements</a> in a very short period of time, and it is getting in shape to a release candidate version. However I don&#8217;t want to rush, since I want the 1.0 version of Spokify to be completely stable and functional.
 

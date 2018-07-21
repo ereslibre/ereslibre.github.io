@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=111
 dsq_thread_id:
   - "1301900276"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 After some hacking I have got a nice requested feature for the folder view containment. Mime type filter support. I took some screenshots so you can have a look yourself.
 

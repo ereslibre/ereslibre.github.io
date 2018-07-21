@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=107
 dsq_thread_id:
   - "1301903663"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 We need users. Users don&#8217;t need us. So better do it good. I hope I misunderstood previous posts that I have read on the planet. We don&#8217;t need certain users that are completely useless for the project, but sure we need the 99,99% that are normal people, with wishes reported and contributing in a very different ways.
 

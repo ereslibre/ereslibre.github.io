@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301902886"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 After some exams I needed to get my head out of worries for a while (still one on the stack to pop&#8230;). I know I shouldn&#8217;t go into a deep problem (as some issues with KToolBar/KMainWindow I need to debug when my exams are over), mainly because I know that if I start debugging them, I probably won&#8217;t stop till I find the problem, and that implies going at 6:00 AM on the morning to bed, what implies not sleeping, what implies not studying ;).
 

@@ -1,4 +1,4 @@
 ---
-tag: KDE Development
+tag: KDE
 permalink: "/category/kde"
 ---

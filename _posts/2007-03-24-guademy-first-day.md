@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=20
 dsq_thread_id:
   - "1819891000"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 First day has been really interesting. We have had some talks as QtJambi, PyQt and my talk about kuiserver in the KDE/Qt part, and other interesting talks about Gnome/GTK guys as compiling Gnome from SVN, desktop accessibility, translating gnome, GTK+ programming, multithreading programming with GTK.
 

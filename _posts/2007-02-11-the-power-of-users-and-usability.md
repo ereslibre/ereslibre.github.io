@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301900695"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Short time ago we were discussing at planetkde how users can help KDE project without having programming knowledge. It is, of course, possible. And they really do a great job.If you are good at mockups, draw them. If you can translate, do it. If you have some time to write docs, write them. Well, there are lots of ways helping KDE project, and you can always think for yourself how proud are you for helping such a project.
 

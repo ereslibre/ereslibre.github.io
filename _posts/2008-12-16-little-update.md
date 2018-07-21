@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=169
 dsq_thread_id:
   - "1301900343"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 <p style="text-align: justify;">
   I just wanted to post the new look of both System Settings and Dolphin with their new drawing code. Note this is still not the definitive version, because they are still subject to change if someone points out good improvements. I want to remind the mockups Nuno did draw: <a href="http://media.ereslibre.es/2008/12/image2449.png" target="_blank">this one for System Settings</a>, and <a href="http://media.ereslibre.es/2008/12/image24492.png" target="_blank">this other one for Dolphin</a>.

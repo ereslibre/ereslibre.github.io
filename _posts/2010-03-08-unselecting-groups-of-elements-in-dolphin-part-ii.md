@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301904184"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 /me loves constructive criticism and nice ideas. I think I have several times guided some development through my blog in order to try to accomplish the maximum number of people ideas and suggestions.
 

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=100
 dsq_thread_id:
   - "1301903413"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 On the very previous post I was suggested to create a dot story and poll there people with this question. Well, I don&#8217;t know if this could be a &#8220;dot story&#8221; 🙂
 

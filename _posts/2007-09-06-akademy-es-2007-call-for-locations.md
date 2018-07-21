@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=62
 dsq_thread_id:
   - "1447984630"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 We are organizing an aKademy in a national level, called aKademy-es. All the needed information can be found at [this site](http://www.ereslibre.es/akademy-es/).
 

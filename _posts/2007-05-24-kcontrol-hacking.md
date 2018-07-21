@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=47
 dsq_thread_id:
   - "1301901588"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 We all know KControl needs love. I have been hacking on it today for a few hours. What I have right now is what you can see at the screenshot:
 

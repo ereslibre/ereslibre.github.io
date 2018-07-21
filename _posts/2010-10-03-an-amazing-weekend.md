@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=266
 dsq_thread_id:
   - "1304586705"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I really needed this.
 

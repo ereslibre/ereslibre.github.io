@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=31
 dsq_thread_id:
   - "1301900942"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 After couple weeks with no time for KDE, I have been able to do some work at KListView (or however it will be called at the end). You can check this screenshot to see how it goes:
 

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=68
 dsq_thread_id:
   - "1301902528"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Today it has been a Qt hacking day as well as TT notifying.
 

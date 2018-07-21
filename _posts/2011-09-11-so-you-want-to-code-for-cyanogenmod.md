@@ -9,7 +9,7 @@ guid: http://blog.ereslibre.es/?p=316
 dsq_thread_id:
   - "1302537424"
 categories:
-  - Archived
+  - archived
   - Android
 ---
 We are living weird days. Kernel.org got compromised, and with it, all git repositories went down. It&#8217;s down for good, down for maintenance, reinstall and to be audited. But, for some cleaning reasons in the day that everything was put offline I cleaned up my android project folder. &#8220;Ok ! No worries ! CyanogenMod should have all repos mirrored !&#8221;. Well&#8230; yes&#8230; no.

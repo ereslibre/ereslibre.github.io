@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=81
 dsq_thread_id:
   - "1301902875"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I&#8217;m not blogging about any work I&#8217;m doing this time&#8230; I&#8217;m blogging because I am just a bit disoriented. I mean, from some time ago what I&#8217;ve been reading at our beloved planet has been something that I personally don&#8217;t like.
 

@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301901891"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Yes&#8230; finally this is a usable version of KListView. I think to commit all this work very soon. I am really glad to show you a video in which you can find out that KListView is almost ready for being used. After having all features working perfectly, I will concentrate on making it faster.
 

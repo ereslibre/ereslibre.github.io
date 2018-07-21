@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=84
 dsq_thread_id:
   - "1345473427"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Congratulations, to everyone. Impressive times are coming 🙂
 

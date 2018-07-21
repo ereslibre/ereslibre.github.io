@@ -14,8 +14,8 @@ enclosure:
 dsq_thread_id:
   - "1301900813"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Yesterday I just wanted to give a bit more eyecandy for the open/save dialogs. Today I&#8217;m going to review the patch and give probably a fade out effect for items, as well as fast transitions when you hover another item while a previous transition effect is still running.
 

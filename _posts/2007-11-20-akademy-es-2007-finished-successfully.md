@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=77
 dsq_thread_id:
   - "1440083440"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I am writing quite late after the event finished, but I am really busy and haven&#8217;t got many time to update my blog. Seriously, I am going to ask Santa for days having 48 hours, and I am sure that wouldn&#8217;t be enough.
 

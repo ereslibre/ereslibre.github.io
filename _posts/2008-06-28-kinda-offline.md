@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=108
 dsq_thread_id:
   - "1301903758"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 As every summer I am staying in other house (30-40 minutes from my usual home) without Internet connection, so&#8230; my replies and so on will be in batches&#8230; 🙂
 

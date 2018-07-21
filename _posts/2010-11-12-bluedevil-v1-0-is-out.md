@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=281
 dsq_thread_id:
   - "1301904275"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 We, at <a href="http://www.ufocoders.com/" target="_blank">UFO Coders</a> are really glad to release version 1.0 of <a href="https://projects.kde.org/projects/extragear/base/bluedevil" target="_blank">Bluedevil</a>, the new KDE bluetooth stack. It has been kind of long way, but finally is all ours !
 

@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301902766"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Well, you guys gave me nice input. I am very thanked because all your comments and suggestions. Transitions now are faster, and I think you get a nice feeling when using it. They are smooth, but fast.
 

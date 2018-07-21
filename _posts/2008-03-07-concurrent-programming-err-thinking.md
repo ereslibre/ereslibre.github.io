@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=90
 dsq_thread_id:
   - "1301903008"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I guess all of us have felt this thing at some point. We have tons of projects, we want all them become true, and days are still having 24 hours. Apart from the typical bugfixing where we see bugs and we try to fix them (what also takes time), I am working on several things at the moment:
 

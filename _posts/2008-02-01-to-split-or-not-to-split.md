@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=86
 dsq_thread_id:
   - "2155143156"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 While looking at the <a target="_blank" href="http://techbase.kde.org/index.php?title=Schedules/KDE4/4.1_Feature_Plan">feature plans for KDE 4.1</a>, I saw that Goya was already added by somebody, and I only had to set its state as &#8220;In progress&#8221;. Thanks to whoever added it 🙂
 

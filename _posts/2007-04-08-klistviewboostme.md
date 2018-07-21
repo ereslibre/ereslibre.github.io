@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=25
 dsq_thread_id:
   - "1301901003"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Nice !! I have boosted KListView, and now seems to be pretty fast, near to QListView (with some QTime benchmarks) when there are not lots of elements (approx. less than 500), because as you can see in the patch intersectionSet method still sucks, and it is very frequently called. There are some improvements needed (the one I have just said, right to left languages, drag & drop, and probably more), and if you <a target="_blank" href="http://media.ereslibre.es/2007/04/klistview.diff">check the patch</a>, there are some hard-coded values, just for testing reasons.
 

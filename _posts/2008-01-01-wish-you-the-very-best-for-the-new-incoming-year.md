@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=82
 dsq_thread_id:
   - "1301901439"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 First of all, I really wish you the very best for the new incoming year.
 

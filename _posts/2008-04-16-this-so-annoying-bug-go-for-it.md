@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=96
 dsq_thread_id:
   - "1301900694"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Yeah, 2nd edition of the bugsquashing day. As George has already mentioned, this is the continuation of the first bugsquashing day.
 

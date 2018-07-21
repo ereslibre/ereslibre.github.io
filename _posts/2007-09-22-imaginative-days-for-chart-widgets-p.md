@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=66
 dsq_thread_id:
   - "1301902386"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I have had some imaginative days. I have looked into Gnome to see what kind of chart they have for showing this kind of information, and I found out:
 

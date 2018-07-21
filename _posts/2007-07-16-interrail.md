@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=58
 dsq_thread_id:
   - "1301902042"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
   - Life
 ---
 Finally, I have just arrived to Paris from Madrid, through Hendaya. This trip has been pretty long and tiring. So I&#8217;m looking forward for visiting it deeply in the next three days.

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=8
 dsq_thread_id:
   - "1343302049"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 After some grep, I&#8217;ve noticed lots of signals/slots were wrong. In particular, if you look at kjob.h (at kdecore), you will notice that result signal is on there, and not on KIO::Job. So for example:
 

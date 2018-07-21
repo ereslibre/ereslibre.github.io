@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=109
 dsq_thread_id:
   - "1301901061"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 For some random reason I downloaded Last.fm client code (it is a Qt application). What is my surprise when I arrive to the about dialog (don&#8217;t ask me why), and read:
 

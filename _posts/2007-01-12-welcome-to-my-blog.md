@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=3
 dsq_thread_id:
   - "1301839273"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
   - Life
 ---
 As always, first of all, thanks for visiting my blog. I hope this is the last change I do to my blog address, and I really hope you enjoy it.

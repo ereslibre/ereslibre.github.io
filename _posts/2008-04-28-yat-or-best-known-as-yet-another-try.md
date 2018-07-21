@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=99
 dsq_thread_id:
   - "1301902096"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Hoping this effort makes most of the people be more happy with how this is going&#8230; I have adapted the KCapacityBar to be capable of drawing as shown here, what I think is easy to read, and it gives a very fast idea about how full the device is. Mandatory screenshot:
 

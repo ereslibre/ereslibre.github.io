@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=173
 dsq_thread_id:
   - "1301903025"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 <p style="text-align: justify;">
   The more you get comments and the more you study something, the more lost you feel, at least where there&#8217;s really a few number of people that seem to agree.

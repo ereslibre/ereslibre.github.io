@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=93
 dsq_thread_id:
   - "1301901339"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 In recent studies from a random and important university it has been found that KDE project supports privative software. As the studies say: almost a 87% of developers prefer Microsoft Windows Notepad to Kate. Same happens with Microsoft Windows Media Player to Amarok in a heavier percentage: 93%.
 

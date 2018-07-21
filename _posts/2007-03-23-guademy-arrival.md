@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=19
 dsq_thread_id:
   - "1301900470"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 So yesterday I arrived to Guademy (at Coruña, Spain). I had no time to write about it yesterday because it was a very nice social day. Meeting some KDE and Gnome devs.
 

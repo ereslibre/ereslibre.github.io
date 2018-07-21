@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=53
 dsq_thread_id:
   - "1301901915"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Yesterday night I was packing everything. I hope I am not forgetting anything here&#8230; Time to hack and meet with gearheads !! Hooah !!
 

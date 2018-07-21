@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301903549"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I am very happy to blog again about KDE. Here I come with an old feature with a new face. I will hopefully come soon also with some Bluetooth updates, since I am working on a KCM for it, but it deserves another post entry when it is in shape and happy with it.
 

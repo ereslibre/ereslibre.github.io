@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=63
 dsq_thread_id:
   - "1301902458"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Finally&#8230; after all the related stuff that needed to be reworked I applied the huge patch to Dolphin that made KCategorizedView cleaner, as well as in general how data is treated on Dolphin. Now categories are asked to the model (a new model created for that purpose: DolphinModel, inheriting KDirModel).
 

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=87
 dsq_thread_id:
   - "1301900510"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 After playing for a while with line edits in Goya, I successfully made them editable. There is still some stuff to make work properly (special keys [and characters], as backspace, delete, start, end and so&#8230;), but the most important thing at the moment is that you can write stuff on it. It can sound stupid, but I knew it was going to work when I made the keyboard cursor blinking. It wasn&#8217;t trivial for Goya, and now is there. I am so happy with it&#8230;
 

@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=162
 dsq_thread_id:
   - "1301902636"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 So I decided to go for all the missing features of the Open/Save dialog, and everything is in SVN now. I have also added support for having filenames below icons or previews (as we had on kde3 too). I have been told several times about this lack of functionality.
 

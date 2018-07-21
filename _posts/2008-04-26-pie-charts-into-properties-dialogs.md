@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=97
 dsq_thread_id:
   - "1301903056"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I have been working these days in introducing the pie chart class I wrote with mercurio help some time ago. If you remember, those charts were 3D and they looked fine so far. It seems that our artists prefer having 2D graphs in there. That meant, hands to work. Since I am not a colors expert, I have been trying till now with colors, with the 2D pie chart class written.
 

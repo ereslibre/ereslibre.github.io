@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=35
 dsq_thread_id:
   - "1301901194"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 I have had some hack at Oxygen style. This all was for allowing Oxygen draw custom categories at KListView. My proposal is this one:
 

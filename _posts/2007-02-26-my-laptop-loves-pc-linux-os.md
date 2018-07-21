@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=17
 dsq_thread_id:
   - "1301900736"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Despite the fact that I use Gentoo GNU/Linux operating system for my desktop PC, my laptop doesn&#8217;t would like to burn someday. I have been searching a really easy GNU/Linux distribution for my laptop, and really trying out the current state of the GNU/Linux desktop for normal users. I was just looking for a distribution that detected all my laptop hardware automatically and let me connect to my WPA secured wireless connection. I just wanted everything working without the need of running any command or reading any wiki or forum (just what a normal user would do).
 

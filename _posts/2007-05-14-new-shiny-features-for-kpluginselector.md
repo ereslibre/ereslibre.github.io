@@ -15,8 +15,8 @@ enclosure:
 dsq_thread_id:
   - "1301901406"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 Yay !! I <a href="http://media.ereslibre.es/2007/05/kpluginselector3.mpeg" target="_blank">recorded another video to show how KPluginSelector tells the user about automatically (un)checked items because of dependencies</a>, as some people suggested me. It was really needed.
 

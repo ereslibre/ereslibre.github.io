@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=18
 dsq_thread_id:
   - "1301900315"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 It seems <a target="_blank" href="http://www.guademy.org/index.php?lang=en">Guademy</a> is finally here. I am going to have the pleasure to meet some KDE folks as Aaron, Albert Astals, Antonio Larrosa as far as I know, and a lot of people that aims to get a better desktop in general, doesn&#8217;t matter if on KDE or Gnome project.
 

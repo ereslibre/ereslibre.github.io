@@ -9,8 +9,8 @@ guid: http://blog.ereslibre.es/?p=205
 dsq_thread_id:
   - "1301903831"
 categories:
-  - Archived
-  - KDE Development
+  - archived
+  - kde
 ---
 It has been a while since my last post. I have been working mostly for University, and now I got a job offer to work for very little time (even from home) on a new business that is emerging here in Madrid, Spain. I think is a good chance to get things done (R), and finish my studies at the same time that I am working. Hopefully we will be doing some Qt stuff, so I am glad after all. However dreams are still there.
 
